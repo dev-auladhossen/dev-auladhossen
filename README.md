@@ -1,29 +1,39 @@
-Hi there! 👋 I'm Aulad Hossen
-JavaScript Enthusiast | Fullstack Developer | Passionate Learner
+# Hi there, I'm Aulad Hossen 👋
 
-I'm a passionate Fullstack Developer with experience in building responsive and scalable web applications. 
-I enjoy working with modern web technologies and am always keen on learning new tools to enhance my skill set.
+**Software Programmer** | Passionate about Web Technologies
 
-💻 Technologies I Work With
-Frontend:
-HTML5, CSS3, JavaScript (ES6+), Sass, Bootstrap, Tailwind CSS, PrimeVue, Vue.js, Nuxt.js
+---
 
-Backend:
-Node.js, Express.js, MongoDB, MYSQL
+### 🔭 Currently working at SalesConnection(Malaysia).
 
-Deployment & Tools:
-Firebase, Heroku, Netlify, Git, GitHub
+### 🛠️ Live with:
+- **Languages**: JavaScript (ES6+)
+- **Frameworks/Libraries**: Vue.js, Nuxt.js, PrimeVue, TailwindCSS, Bootstrap, SASS
+- **Backend**: Node.js, Express.js
+- **Databases**: MongoDB, MySQL
+- **Deployment**: Firebase, Heroku, Netlify
 
-🌱 Currently Learning
-I am currently expanding my knowledge in:
-Advanced Node.js & Express.js
-Full-stack development (MEVN Stack)
-Scalable architectures and system design
+### 🔧 Working on:
+- **Backend**: Deepening understanding of Express.js and working with APIs
+- **Databases**: Optimizing MongoDB and SQL queries
 
-📫 Let's Connect!
-LinkedIn: https://www.linkedin.com/in/aulad-hossen-himel-665930183/
-Email: auladhossen3021@gmail.com
+### ❤️ Love to:
+- Explore new technologies, Build responsive UIs, Collaborate on exciting projects
 
-⚡ Fun Fact
-When I'm not coding, I love exploring new technologies and sharing knowledge with others!
+### 🚀 Aiming for:
+- Mastering Full Stack Development(MEVN)
+
+---
+
+### 🖥️ **Find me on:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aulad-hossen-himel/) 
+
+---
+
+### 📊 GitHub Stats:
+![Aulad's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
